@@ -1,5 +1,6 @@
 Pro:
 - closer to sun
+- a very nice planet
 
 Con:
 - protomolecule is all over it
