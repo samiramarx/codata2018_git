@@ -1,5 +1,7 @@
 Pro:
 - closer to earth
+- further from sun
 
 Con:
 - wolfman would go crazy
+- wolfman is a wolf
